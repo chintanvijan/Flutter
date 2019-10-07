@@ -1,0 +1,808 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"services"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"for",
+				"form_obj"
+			],
+			[
+				"fr",
+				"from_email"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"shado",
+				"box-shadow\tproperty"
+			],
+			[
+				"fade",
+				"fadeInRight"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			],
+			[
+				"img",
+				"img_dir_name"
+			],
+			[
+				"dir",
+				"dir_name"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"shadow",
+				"shadow-none"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"slide",
+				"slideInRight"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"dis",
+				"display-4"
+			],
+			[
+				"list",
+				"list-group"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"lis",
+				"list-group"
+			],
+			[
+				"li",
+				"list-group"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"drop",
+				"drop-text"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"input",
+				"input_filter"
+			],
+			[
+				"search",
+				"search_value"
+			],
+			[
+				"data",
+				"dataval"
+			],
+			[
+				"del",
+				"delend"
+			],
+			[
+				"foll",
+				"following_count"
+			],
+			[
+				"fi",
+				"find_elements_by_class_name"
+			],
+			[
+				"find",
+				"find_element_by_xpath"
+			],
+			[
+				"S",
+				"soup"
+			],
+			[
+				"pr",
+				"proxyDict"
+			],
+			[
+				"http",
+				"http_proxy"
+			],
+			[
+				"s",
+				"subcat_rank"
+			],
+			[
+				"link",
+				"link_names"
+			],
+			[
+				"ur",
+				"urllib3"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"state",
+				"statesubmit"
+			],
+			[
+				"sub",
+				"sub_ext_links"
+			],
+			[
+				"ex",
+				"ext_links"
+			],
+			[
+				"fin",
+				"find_element_by_name"
+			],
+			[
+				"req",
+				"req_json"
+			],
+			[
+				"f",
+				"find_element_by_xpath"
+			],
+			[
+				"attr",
+				"attr_list"
+			],
+			[
+				"cat",
+				"cat_elements"
+			],
+			[
+				"ca",
+				"cat_elements"
+			],
+			[
+				"chintanvijan",
+				"chintanvijan1998"
+			],
+			[
+				"c",
+				"chintanvijan1998"
+			],
+			[
+				"T",
+				"TorBrowserDriver"
+			],
+			[
+				"course",
+				"course_name"
+			],
+			[
+				"main",
+				"main_list"
+			],
+			[
+				"p",
+				"pyautogui"
+			],
+			[
+				"url",
+				"urlpath"
+			],
+			[
+				"css",
+				"csscode"
+			],
+			[
+				"script",
+				"scriptelements"
+			],
+			[
+				"sub_cat",
+				"sub_cat_elements"
+			],
+			[
+				"su",
+				"sub_cat_elements"
+			],
+			[
+				"in",
+				"in_file"
+			],
+			[
+				"do",
+				"download"
+			],
+			[
+				"pdf",
+				"pdf_path"
+			],
+			[
+				"file",
+				"fileinput"
+			],
+			[
+				"exe",
+				"execute_script"
+			],
+			[
+				"cur",
+				"curlsplit"
+			],
+			[
+				"linkurl",
+				"linkurlsplit"
+			],
+			[
+				"current",
+				"current_url"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"bca",
+				"background-color\tproperty"
+			],
+			[
+				"res",
+				"resarray"
+			],
+			[
+				"mysqli_fetc",
+				"mysqli_fetch_all"
+			],
+			[
+				"row",
+				"row2"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_all"
+			],
+			[
+				"aud",
+				"audiopath"
+			],
+			[
+				"image",
+				"imagepath"
+			],
+			[
+				"lo",
+				"loksabha"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"face",
+				"facecom"
+			],
+			[
+				"mysqli_e",
+				"mysqli_escape_string"
+			],
+			[
+				"wri",
+				"writeimg"
+			],
+			[
+				"get",
+				"get_attribute"
+			],
+			[
+				"tem",
+				"tempcurlurls"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"write",
+				"writecode"
+			],
+			[
+				"di",
+				"divelements"
+			],
+			[
+				"temp",
+				"tempcode"
+			],
+			[
+				"r",
+				"rootdirname"
+			],
+			[
+				"voice",
+				"voiceList"
+			],
+			[
+				"m",
+				"mx-auto"
+			],
+			[
+				"find_",
+				"find_elements_by_tag_name"
+			],
+			[
+				"scr",
+				"scriptelements"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"fo",
+				"forminfoss"
+			],
+			[
+				"forminfoss",
+				"forminfossAdmin"
+			],
+			[
+				"im",
+				"imwrite"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"User",
+				"UserCreationForm"
+			],
+			[
+				"te",
+				"test_set"
+			],
+			[
+				"mysqli",
+				"mysqli_execute"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"USer",
+				"User"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"chrome",
+				"chrome_options"
+			],
+			[
+				"F",
+				"FileOutputStream"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"align",
+				"vertical-align\tproperty"
+			],
+			[
+				"text-al",
+				"text-align\tproperty"
+			],
+			[
+				"clas",
+				"classifier"
+			],
+			[
+				"R",
+				"RegistrationForm"
+			],
+			[
+				"L",
+				"Length"
+			],
+			[
+				"P",
+				"Process"
+			],
+			[
+				"word",
+				"word_tokenize"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"wo",
+				"word_tokenize"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"cla",
+				"classifier"
+			],
+			[
+				"Re",
+				"RectangePeri"
+			],
+			[
+				"_",
+				"_FINISH"
+			],
+			[
+				"v",
+				"vp_start_gui"
+			],
+			[
+				"courses",
+				"courses_detail"
+			],
+			[
+				"chrom",
+				"chrome_options"
+			],
+			[
+				"chr",
+				"chrome_options"
+			],
+			[
+				"left",
+				"left_frame"
+			],
+			[
+				"HJC",
+				"HJCBL"
+			],
+			[
+				"count",
+				"count_var"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"base",
+				"base64_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/91880/Desktop/masterx.com/masterx/product/urls.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/templates/manageweb.html",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/templates/index.html",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/templates/base.html",
+		"/C/Users/91880/Desktop/masterx.com/masterx/masterx/settings.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/product/views.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/product/serializers.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/masterx/urls.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/urls.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/views.py",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/mobileappdev.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/contact.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/privacy.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/about.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/index.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/header.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/mnssys.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/dm.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/css/mobiledevstyle.css",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/templates/learnmore.html",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/webdev.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/seo.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/elearning.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/ecomdev.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/dataanalytics.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/ai.php",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/services/footer.php",
+		"/C/Users/91880/Desktop/masterx.com/masterx/requirements.txt",
+		"/C/Users/91880/Desktop/College/questions.txt",
+		"/C/Users/91880/Desktop/College/fileeditingbot.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/admin.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/models.py",
+		"/C/Users/91880/Desktop/warewe/emacontentninja/emacontentninja/website/views.py",
+		"/C/Users/91880/Desktop/warewe/emacontentninja/emacontentninja/website/templates/talk-form.html",
+		"/C/Users/91880/Desktop/Interviewer/Interviewer/Interviewer/login/models.py",
+		"/C/Users/91880/Desktop/Templates/beckham/beckham/contact.html",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/static/js/google-map.js",
+		"/C/Users/91880/Desktop/warewe/emacontentninja/emacontentninja/website/templates/home.html",
+		"/C/Users/91880/Desktop/warewe/emacontentninja/emacontentninja/website/templates/base.html",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/static/js/main.js",
+		"/C/Users/91880/Desktop/Templates/beckham/beckham/prepros-6.config",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/static/css/style.css",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/templates/footer.html",
+		"/C/Users/91880/Desktop/Templates/interior-opl/interior-opl/index.html",
+		"/C/Users/91880/Desktop/College/cg/cgp4.cpp",
+		"/C/Users/91880/Desktop/College/cg/cgp3.cpp",
+		"/C/Users/91880/Desktop/College/cg/cgp5.cpp",
+		"/C/Users/91880/Desktop/College/cg/CGP2.CPP",
+		"/C/TURBOC3/BIN/CGP1.CPP",
+		"/C/TURBOC3/BIN/CGP1.C",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/css/style.css",
+		"/C/Users/91880/Downloads/Animate-master/Animate-master/src/js/animate.ts",
+		"/C/Users/91880/Downloads/Animate-master/Animate-master/dist/index.html",
+		"/C/Users/91880/Downloads/Animate-master/Animate-master/dist/css/app.min.css",
+		"/C/Users/91880/Downloads/Animate-master/Animate-master/dist/css/app.css",
+		"/C/xampp/htdocs/test/test.php",
+		"/C/xampp/htdocs/test scripts/audioex.php",
+		"/C/Users/91880/Desktop/Interviewer/saving video/converting-from-speech-to-text-with-javascript/index.html",
+		"/C/Users/91880/Desktop/Interviewer/saving video/converting-from-speech-to-text-with-javascript/script.js",
+		"/C/xampp/htdocs/test scripts/webrtc/WebRTC-Experiment-master/WebRTC-Experiment-master/MediaStreamRecorder/demos/video-recorder.html",
+		"/C/xampp/htdocs/test scripts/multistreammixer/MultiStreamsMixer-master/MultiStreamsMixer-master/index.html",
+		"/C/xampp/htdocs/test scripts/multistreammixer/MultiStreamsMixer-master/MultiStreamsMixer-master/MultiStreamsMixer.js",
+		"/C/xampp/htdocs/test scripts/webrtc/WebRTC-Experiment-master/WebRTC-Experiment-master/MediaStreamRecorder/MediaStreamRecorder.js",
+		"/C/xampp/htdocs/test scripts/webrtc/MediaStreamRecorder.js",
+		"/C/xampp/htdocs/test scripts/multistreammixer/MultiStreamsMixer-master/MultiStreamsMixer-master/MultiStreamMixer.js",
+		"/C/xampp/htdocs/test scripts/webrtc/index.html",
+		"/C/xampp/htdocs/latracal-web-master/latracal-web-master/css/animate.css",
+		"/C/xampp/htdocs/test scripts/audio.php",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/templates/student.html",
+		"/C/xampp/htdocs/test scripts/test1.php",
+		"/C/Users/91880/Desktop/Templates/Contact Form/ContactFrom_v5/ContactFrom_v5/student.html",
+		"/C/xampp/htdocs/latracal-web-master/services/webdev.php",
+		"/C/xampp/htdocs/latracal-web-master/services/ai.php",
+		"/C/xampp/htdocs/latracal-web-master/services/dataanalytics.php",
+		"/C/Users/91880/Downloads/ai2.html",
+		"/C/Users/91880/Downloads/ai1.html",
+		"/C/Users/91880/Downloads/services/New folder/mobileapp.html",
+		"/C/xampp/htdocs/test scripts/FFMpeg/FFMpeg.php",
+		"/C/xampp/htdocs/test scripts/a.php",
+		"/C/Users/91880/Downloads/services/New folder/seo and smo.html",
+		"/C/Users/91880/Downloads/services/New folder/Digital Marketing.html",
+		"/C/Users/91880/Downloads/services/New folder/analytics.html",
+		"/C/Users/91880/Downloads/services/New folder/elearning.html",
+		"/C/Users/91880/Downloads/services/New folder/managementsystems.html",
+		"/C/Users/91880/Desktop/warewe/emacontentninja/emacontentninja/register/views.py",
+		"/C/Users/91880/Desktop/warewe/emacontentninja/emacontentninja/register/templates/Register/login.html",
+		"/C/Users/91880/Desktop/Interviewer/Interviewer/Interviewer/login/views.py",
+		"/C/Users/91880/Desktop/warewe/emacontentninja/emacontentninja/dashboard/views.py",
+		"/C/Users/91880/Downloads/services/New folder/ecommerce.html",
+		"/C/Users/91880/Downloads/services/New folder/web development .html",
+		"/C/xampp/htdocs/test scripts/data.txt",
+		"/C/xampp/htdocs/test scripts/test.php",
+		"/C/Users/91880/Downloads/profinity filter/test.php",
+		"/C/xampp/htdocs/Suits site/styles/main_styles.css",
+		"/C/xampp/htdocs/Suits site/head.php",
+		"/C/xampp/htdocs/Suits site/index.php",
+		"/C/xampp/htdocs/Suits site/admin/validate.php",
+		"/C/xampp/htdocs/Suits site/admin/index.php",
+		"/C/Users/91880/Desktop/Data Structures/Python/graphs.py",
+		"/C/xampp/htdocs/test scripts/form.php",
+		"/C/Users/91880/Desktop/Data Structures/Python/binary-tree.py",
+		"/C/xampp/htdocs/test scripts/sort.py",
+		"/C/xampp/htdocs/test scripts/s.py",
+		"/C/xampp/htdocs/Suits site/admin.php",
+		"/C/Users/91880/Desktop/Data Structures/Python/search-tree.py",
+		"/C/Users/91880/Desktop/masterx.com/masterx/website/static/contact/css/main.css",
+		"/C/Users/91880/Desktop/Data Structures/Python/linked-lists.py",
+		"/C/Users/91880/Desktop/Data Structures/Python/stack.py",
+		"/C/Users/91880/Desktop/Data Structures/Python/queue.py",
+		"/C/Users/91880/Desktop/gcodeconv.py",
+		"/C/Users/91880/Desktop/gcodetosrc.py",
+		"/C/Users/91880/Desktop/Bots/account bots/insta.py",
+		"/C/Users/91880/Desktop/hello.dat",
+		"/C/Users/91880/Desktop/file converter/ppttopdf.py",
+		"/C/Users/91880/Desktop/Bots/account bots/instabot.py",
+		"/C/Users/91880/Desktop/Bots/account bots/insta.bot",
+		"/C/Users/91880/Desktop/Bots/account bots/mailchimp.py",
+		"/C/Users/91880/Desktop/Bots/account bots/yahoologinbot.py",
+		"/C/Users/91880/Desktop/Bots/sort.py",
+		"/C/Users/91880/Desktop/Bots/account bots/pinterest.py",
+		"/C/Users/91880/Desktop/Bots/account bots/twitter.py",
+		"/C/Users/91880/Desktop/Bots/account bots/mailaccountssort.py",
+		"/C/xampp/htdocs/AAP Project/p.php",
+		"/C/Users/91880/Desktop/Bots/domainbot.py",
+		"/C/xampp/htdocs/AAP Project/FPDF/FPDF/WriteHTML.php",
+		"/C/Users/91880/Desktop/Bots/1.txt",
+		"/C/Users/91880/Desktop/Bots/s.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 101.6,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"home"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
