@@ -6,7 +6,7 @@ import 'package:flutter_blue/flutter_blue.dart';
 import 'widget.dart';
 
 void main() {
-  runApp(FlutterBlueApp());
+  runApp(front_app_screen());
 }
 
 class FlutterBlueApp extends StatelessWidget {
@@ -26,6 +26,29 @@ class FlutterBlueApp extends StatelessWidget {
           }),
     );
   }
+}
+
+class front_app_screen extends StatelessWidget{
+	@override
+	Widget build(BuildContext context){
+    return MaterialApp(
+        home: Scaffold(
+
+    body: Center(
+				child:Column(
+          children: <Widget>[
+            Image.asset('images/homepage3.png'),
+            Text(
+              'A tablet is a wireless touch screen computer that is smaller than a notebook but larger than a smartphone.',
+              style: TextStyle(fontSize: 20.0),
+            )
+          ],
+        ),
+
+			),
+		),
+    );
+	}
 }
 
 class BluetoothOffScreen extends StatelessWidget {
