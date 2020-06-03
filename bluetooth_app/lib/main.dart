@@ -30,25 +30,45 @@ class FlutterBlueApp extends StatelessWidget {
 
 class front_app_screen extends StatelessWidget{
 	@override
-	Widget build(BuildContext context){
-    return MaterialApp(
-        home: Scaffold(
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.white,
 
-    body: Center(
-				child:Column(
-          children: <Widget>[
-            Image.asset('images/homepage3.png'),
-            Text(
-              'A tablet is a wireless touch screen computer that is smaller than a notebook but larger than a smartphone.',
-              style: TextStyle(fontSize: 20.0),
-            )
-          ],
-        ),
+      body:
 
-			),
-		),
+      Stack(
+        children: <Widget>[
+          // Max Size
+          Container(
+            color: Colors.green,
+          ),
+          Container(
+            decoration: BoxDecoration(
+              image: DecorationImage(
+                image: AssetImage(
+                    'images/homepage3.png'),
+                fit: BoxFit.fill,
+              ),
+              shape: BoxShape.circle,
+            ),
+
+            height: 100.0,
+            width: 100.0,
+          ),
+      Align(
+        alignment: Alignment.topRight,
+        child:
+          Container(
+            color: Colors.pink,
+            height: 150.0,
+            width: 150.0,
+          )
+      )
+        ],
+      ),
+
     );
-	}
+  }
 }
 
 class BluetoothOffScreen extends StatelessWidget {
